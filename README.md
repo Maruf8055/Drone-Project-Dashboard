@@ -1,4 +1,4 @@
-# Drone-Project-Dashboard Created By Abdulla MARUF
+# Drone-Project-Dashboard Created By Abdulla Maruf
 
 ## Data Dashboard for KPI Analysis 📊
 
