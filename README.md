@@ -42,7 +42,8 @@ The dashboard includes the following visualizations:
 
 ### Screenshots
 #### Gantt Chart
-![Gantt Chart](path_to_image/gantt_chart.png)
+![image](https://github.com/user-attachments/assets/7b165c92-7537-4ea7-a9b4-311dc1d8430c)
+
 
 #### Budget Chart
 ![Budget Chart](https://github.com/user-attachments/assets/cdc6060a-d9b6-4d97-9732-c9ea15d4b737)
