@@ -13,12 +13,12 @@ Usage
 Screenshots
 Future Improvements
 Project Goals
-# The primary objectives of this project are:#
+# Objectives:
 To create an easy-to-use Excel dashboard for visualizing KPIs.
 To track project progress, budget, and task completion effectively.
 To provide stakeholders with a quick, visual summary of performance metrics.
-Features
-# Interactive Excel Dashboard:# 
+# Features:
+Interactive Excel Dashboard:
 A single Excel file containing various KPI charts.
 # Gantt Chart:# 
 Tracks project phases and timelines visually.
