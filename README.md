@@ -40,7 +40,11 @@ The dashboard includes the following visualizations:
    - **Task Data**: Update task statuses (Completed, In Progress, On Hold) in the task sheet.
 3. **View the Dashboard**: Navigate to the Dashboard tab to see the updated visualizations.
 
-### Screenshots
+
+
+
+
+
 #### Gantt Chart
 ![image](https://github.com/user-attachments/assets/7b165c92-7537-4ea7-a9b4-311dc1d8430c)
 
@@ -49,7 +53,16 @@ The dashboard includes the following visualizations:
 ![Budget Chart](https://github.com/user-attachments/assets/cdc6060a-d9b6-4d97-9732-c9ea15d4b737)
 
 #### Task Completion Pie Chart
-![Task Completion Pie Chart](path_to_image/task_pie_chart.png)
+![image](https://github.com/user-attachments/assets/39593516-111f-4a6c-b921-3852900a1f51)
+![image](https://github.com/user-attachments/assets/b5f9fdff-4efd-4f29-8f7e-66f772d54881)
+
+### Final Overview
+![image](https://github.com/user-attachments/assets/1c51333b-a97c-4235-80fd-25989384c292)
+![image](https://github.com/user-attachments/assets/b8d137c9-61dd-4d47-a12d-5c488d30ad16)
+![image](https://github.com/user-attachments/assets/2e370908-7344-4c99-889d-df16f4006b5c)
+
+
+
 
 ### Future Improvements:
 - **Automated Data Update**: Implement Excel macros to refresh charts automatically.
