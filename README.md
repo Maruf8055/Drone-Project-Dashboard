@@ -1,9 +1,9 @@
 # Drone-Project-Dashboard
 
-Data Dashboard for KPI Analysis 📊
-Overview
+# Data Dashboard for KPI Analysis 📊
+# Overview #
 The Data Dashboard for KPI Analysis project is an Excel-based solution aimed at providing clear and concise visual insights into project performance and key metrics. It leverages Excel's powerful data visualization tools to track and display project timelines, budget utilization, task progress, and other key performance indicators (KPIs).
-Table of Contents
+# Table of Contents # 
 Overview
 Project Goals
 Features
@@ -13,14 +13,17 @@ Usage
 Screenshots
 Future Improvements
 Project Goals
-The primary objectives of this project are:
+# The primary objectives of this project are:#
 To create an easy-to-use Excel dashboard for visualizing KPIs.
 To track project progress, budget, and task completion effectively.
 To provide stakeholders with a quick, visual summary of performance metrics.
 Features
-Interactive Excel Dashboard: A single Excel file containing various KPI charts.
-Gantt Chart: Tracks project phases and timelines visually.
-Budget Chart: Compares planned and actual expenditures using bar/line charts.
+# Interactive Excel Dashboard:# 
+A single Excel file containing various KPI charts.
+# Gantt Chart:# 
+Tracks project phases and timelines visually.
+# Budget Chart:#
+Compares planned and actual expenditures using bar/line charts.
 Task Completion Pie Chart: Visual representation of completed, ongoing, and pending tasks.
 Summary Table: Key performance metrics summarized for quick insights.
 Tools Used
@@ -33,15 +36,16 @@ Gantt Chart: Displays the project schedule, including start and end dates for ea
 Budget Analysis Chart: Shows budgeted vs. actual spending over time.
 Task Completion Pie Chart: Illustrates the percentage of tasks completed, in progress, or not started.
 Usage
-To use the Excel dashboard:
+# To use the Excel dashboard:#
 Open the Excel File: Double-click the KPI_Dashboard.xlsx file to open it in Excel.
 Data Entry: Update the raw data tables with your current project information:
 Timeline Data: Add project tasks, start dates, and end dates for the Gantt chart.
 Budget Data: Enter planned and actual expenses in the budget sheet.
 Task Data: Update task statuses (Completed, In Progress, On Hold) in the task sheet.
 View the Dashboard: Navigate to the Dashboard tab to see the updated visualizations.
-Screenshots
-Gantt Chart
+
+# Screenshots #
+# Gantt Chart#
  
  
 # Budget Chart #
